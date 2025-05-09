@@ -1,0 +1,1 @@
+export {useobtenerLosSuperheroes} from "./useSuperheros"
